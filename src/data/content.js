@@ -74,7 +74,7 @@ export const projects = [
 
 export const education = [
   {
-    institution: "K.J. Somaiya Institute of Engineering",
+    institution: "K.J. Somaiya Institute of Technology",
     degree: "Bachelor of Engineering — Computer Engineering",
     period: "2017 — 2021",
     grade: "7.49 GPA",
