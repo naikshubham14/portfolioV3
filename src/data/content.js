@@ -16,7 +16,7 @@ export const experience = [
     period: "March 2025 — Present",
     location: "Bengaluru, KA",
     bullets: [
-      "Co-invented a patent-pending AST-based code context retrieval framework enabling AI agents to extract code context and dependency deterministically. replacing grep-based pattern matching and semantic search. Showing 25% first-pass code accuracy lift, 60% token consumption reduction per agent call, 95% retrieval completeness vs. 65% semantic baseline. Preceded similar capabilities Copilot Workspace by 6+ months."
+      "Co-invented a patent-pending AST-based code context retrieval framework enabling AI agents to extract code context and dependency deterministically. replacing grep-based pattern matching and semantic search. Showing 25% first-pass code accuracy lift, 60% token consumption reduction per agent call, 95% retrieval completeness vs. 65% semantic baseline. Preceded similar capabilities Copilot Workspace by 6+ months.",
       "Engineered core components for Joule, SAP's flagship agentic copilot — implementing RAG pipelines with LangChain and LlamaIndex over Neo4j graph databases for a unified, context-aware experience across the SAP ecosystem.",
       "Built an end-to-end code generation pipeline for Joule for Developer (J4D) using FastAPI on SAP BTP and Azure, accelerating legacy ECC-to-S/4HANA migration and reducing migration timelines by 35%.",
       "Executed parameter-efficient fine-tuning (PEFT/QLoRA) on open-source LLMs (Codestral, StarCoder) on curated domain-specific datasets for text-to-code and code-to-code generation.",
