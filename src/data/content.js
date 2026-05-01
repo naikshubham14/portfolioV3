@@ -16,6 +16,7 @@ export const experience = [
     period: "March 2025 — Present",
     location: "Bengaluru, KA",
     bullets: [
+      "Co-invented a patent-pending AST-based code context retrieval framework enabling AI agents to extract code context and dependency deterministically. replacing grep-based pattern matching and semantic search. Showing 25% first-pass code accuracy lift, 60% token consumption reduction per agent call, 95% retrieval completeness vs. 65% semantic baseline. Preceded similar capabilities Copilot Workspace by 6+ months."
       "Engineered core components for Joule, SAP's flagship agentic copilot — implementing RAG pipelines with LangChain and LlamaIndex over Neo4j graph databases for a unified, context-aware experience across the SAP ecosystem.",
       "Built an end-to-end code generation pipeline for Joule for Developer (J4D) using FastAPI on SAP BTP and Azure, accelerating legacy ECC-to-S/4HANA migration and reducing migration timelines by 35%.",
       "Executed parameter-efficient fine-tuning (PEFT/QLoRA) on open-source LLMs (Codestral, StarCoder) on curated domain-specific datasets for text-to-code and code-to-code generation.",
@@ -30,7 +31,7 @@ export const experience = [
     bullets: [
       "Engineered a scalable pipeline to convert enterprise website content into an indexed vector database, powering a RAG-enabled chat agent that reduced user search time by 15% and improved retention.",
       "Implemented a content approval system for a pharmaceutical client, reducing per-page approval time from 4 hours to 2.5 hours and accelerating campaign go-live timelines.",
-      "Built a risk assessment model predicting at-risk deliverables, increasing timebound objective delivery by 25% across remote-working projects.",
+      "Built a risk assessment model predicting at-risk deliverables, increasing time-bound objective delivery by 25% across remote-working projects.",
       "Spearheaded cross-functional collaboration across 12 projects to develop standardized GenAI runbooks, enhancing work efficiency by 20% and maintaining data integrity across 600+ personnel.",
       "Deployed 15+ generative AI systems with agentic architecture using Llama-2/3, Mistral, and GPT-3.5/4 augmented with vector databases via LangChain.",
     ]
